@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YuriySW/react-form/static/css/main.79ebf5dc.css",
+    "main.js": "/YuriySW/react-form/static/js/main.bf2b1d13.js",
+    "index.html": "/YuriySW/react-form/index.html",
+    "main.79ebf5dc.css.map": "/YuriySW/react-form/static/css/main.79ebf5dc.css.map",
+    "main.bf2b1d13.js.map": "/YuriySW/react-form/static/js/main.bf2b1d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ebf5dc.css",
+    "static/js/main.bf2b1d13.js"
+  ]
+}
